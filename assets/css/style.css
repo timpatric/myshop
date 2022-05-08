@@ -528,6 +528,17 @@ html.menu-opened body{overflow:hidden}
 
 .input-group .form-control-lg.form-control{border-radius:4px 0 0 4px;height:46px}
 
+@media only screen and (max-width:405px){
+    .login-wrapper .loginbox .login-right{
+        width:350px;
+    }
+}
+
+@media only screen and (max-width:360px){
+    .login-wrapper .loginbox .login-right{
+        width:320px !important
+    }
+}
 @media only screen and (min-width:992px){
     #toggle_btn{
         align-items:center;
