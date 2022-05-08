@@ -609,7 +609,7 @@ html.menu-opened body{overflow:hidden}
     h4,.h4{font-size:1.125rem}
     h5,.h5{font-size:1rem}
     h6,.h6{font-size:.875rem}
-    .header .has-arrow .dropdown-toggle img{display:none}
+    .header .has-arrow .dropdown-toggle img{margin-right:-20px}
     .header .has-arrow .dropdown-toggle:after{display:none}
     .user-menu.nav>li>a>span:not(.user-img){display:none}
     .header .header-left{padding:0 15px}
